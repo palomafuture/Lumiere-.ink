@@ -1,0 +1,6 @@
+{
+  "name": "Lumiere.ink - Fanfics Interativas",
+  "description": "Entre na história. Seja a protagonista. Leia fanfics interativas e transforme cada história na sua. Troque o nome da mocinha pelo seu, escolha o par romântico que mais te faz suspirar e viva o romance do seu jeito. Quer publicar a sua também? É só enviar o arquivo do Word. A gente deixa tudo bonito e publica de graça. Seu nome. Sua escolha. Sua história.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
